@@ -20,9 +20,9 @@ The feature space is as follows, and contains a mixture of numerical and categor
 
 
 You can find the following files in the project folder:
-1. training and test dataset (adult_trdata.csv and adult_test.csv)
+1. Training and test dataset (adult_trdata.csv and adult_test.csv)
 2. Two ipython notebooks for ML model development (Logistic_Regression.ypynb and Random_Forest.ipynb)
-3. Uutput model from the best ML model (logr.pkl)
+3. Model output from the best ML model (logr.pkl)
 4. Python file for creating API endpoint (app.py)
 5. Instructions on how to test API endpoint (API_Testing_Instruction.docx)
 6. Sample input data (single row of data or a batch) for API testing (test_df1.csv and test_df2.csv)
