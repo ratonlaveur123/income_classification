@@ -1,6 +1,6 @@
 # income_classification
 
-This project is to build machine learning models to perform classification task that determines whether a person makes over 50K a year from UCI's Census Income dataset. Logisic regression and random forest models are developed for this project and an API endpoint was set up to generate prediction result from the best ML model. The endpoint takes the input data from the test dataset(single row of data or a batch) and returns the predictions. 
+This project is to build machine learning models to perform classification task that determines whether a person makes over 50K a year from UCI's Census Income dataset. Logisic regression and random forest models are developed for this project and the process includes data preprocessing and data cleaning, feature engineering, model training and testing, and hyperparameter tuning using grid search with cross validation. An API endpoint was set up using Flask to generate prediction result from the best ML model. The endpoint takes the input data from the test dataset (single row of data or a batch) and returns the predictions. 
 
 The feature space is as follows, and contains a mixture of numerical and categorical inputs. 
 1.	age: continuous.
@@ -23,6 +23,6 @@ You can find the following files in the project folder:
 1. Training and test dataset (adult_trdata.csv and adult_test.csv)
 2. Two ipython notebooks for ML model development (Logistic_Regression.ypynb and Random_Forest.ipynb)
 3. Model output from the best ML model (logr.pkl)
-4. Python file for creating API endpoint (app.py)
+4. Python file for creating API endpoint using Flask (app.py)
 5. Instructions on how to test API endpoint (API_Testing_Instruction.docx)
 6. Sample input data (single row of data or a batch) for API testing (test_df1.csv and test_df2.csv)
