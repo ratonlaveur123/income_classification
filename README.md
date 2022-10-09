@@ -17,7 +17,6 @@ The feature space is as follows, and contains a mixture of numerical and categor
 12.	capital-loss: continuous.
 13.	hours-per-week: continuous.
 14.	native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
-![image](https://user-images.githubusercontent.com/72672367/194773009-db7cc455-38f7-46cc-befa-465668b5bc41.png)
 
 
 You can find the following files in the project folder:
